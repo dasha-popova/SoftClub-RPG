@@ -14,7 +14,7 @@
         <mark key="]" line="21" column="11" />
         <mark key="." line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449772227844">
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449772597800">
         <mark key="[" line="53" column="15" />
         <mark key="]" line="53" column="15" />
         <mark key="." line="53" column="15" />
@@ -29,10 +29,10 @@
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Hero/Hero.java" timestamp="1449771832322">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Hero/Hero.java" timestamp="1449773156708">
+        <mark key="[" line="78" column="22" />
+        <mark key="]" line="78" column="22" />
+        <mark key="." line="78" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/InvisibleHat.java" timestamp="1449771996720">
         <mark key="[" line="18" column="18" />
@@ -51,39 +51,38 @@
     <jumps />
     <registers>
       <register name="1" type="4">
-        <text>&quot;BigBoss{&quot; +
-                &quot;name='&quot; + n</text>
+        <text encoding="base64">INHo6/P46uAg4e7j4PL78PHq4P8=</text>
       </register>
       <register name="&quot;" type="4">
+        <text encoding="base64">INHo6/P46uAg4e7j4PL78PHq4P8=</text>
+      </register>
+      <register name="2" type="4">
+        <text>magic</text>
+      </register>
+      <register name="3" type="4">
+        <text>hp</text>
+      </register>
+      <register name="4" type="4">
+        <text>level</text>
+      </register>
+      <register name="5" type="4">
+        <text>\n</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICJuYW1lPSciICsg</text>
+      </register>
+      <register name="7" type="4">
         <text>&quot;BigBoss{&quot; +
                 &quot;name='&quot; + n</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cGVyc29uLmdldFNraWxscygpIC0gY29zdCA+IDAgJiY=</text>
-      </register>
-      <register name="3" type="4">
-        <text>.(person.</text>
-      </register>
-      <register name="4" type="4">
-        <text>setSkills</text>
-      </register>
-      <register name="5" type="4">
-        <text>;</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIEludGVnZXIgc2tpbGxzOw==</text>
-      </register>
-      <register name="7" type="4">
-        <text>(level *</text>
-      </register>
       <register name="8" type="4">
-        <text>:</text>
+        <text encoding="base64">cGVyc29uLmdldFNraWxscygpIC0gY29zdCA+IDAgJiY=</text>
       </register>
       <register name="9" type="4">
-        <text>{</text>
+        <text>.(person.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGVyc29uLmdldFNraWxscygpIC0gY29zdCA+IDAgJiY=</text>
+        <text encoding="base64">INHo6/P46uAg4e7j4PL78PHq4P8=</text>
       </register>
     </registers>
     <search>
