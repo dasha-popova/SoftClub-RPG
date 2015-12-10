@@ -14,11 +14,17 @@
         <mark key="]" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449600028827">
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449757189448">
+        <mark key="[" line="10" column="100" />
+        <mark key="]" line="10" column="100" />
+        <mark key="." line="10" column="100" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Hero/Hero.java" timestamp="1449755870985" />
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/InvisibleHat.java" timestamp="1449599906035">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="15" />
@@ -36,37 +42,37 @@
     <jumps />
     <registers>
       <register name="1" type="4">
-        <text>null</text>
+        <text>&quot;Орк&quot;,</text>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>&quot;Орк&quot;,</text>
       </register>
       <register name="2" type="4">
-        <text>InvisibleHat{</text>
+        <text>Черный дракон</text>
       </register>
       <register name="3" type="4">
-        <text>addCost</text>
+        <text>Ведьма</text>
       </register>
       <register name="4" type="4">
-        <text>needLevel</text>
+        <text>Кентавр</text>
       </register>
       <register name="5" type="4">
-        <text>v</text>
+        <text>Лич</text>
       </register>
       <register name="6" type="4">
-        <text>void w</text>
+        <text>Воин</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text encoding="base64">IPEg7+7x7vXu7CDx7OXw8ug=</text>
       </register>
       <register name="8" type="4">
-        <text>Fireball{</text>
+        <text encoding="base64">IPEg6uDy4O3u6Q==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IEk=</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>&quot;Орк&quot;,</text>
       </register>
     </registers>
     <search>
