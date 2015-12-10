@@ -3,27 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Medicine.java" timestamp="1449780538609">
-        <mark key="a" line="25" column="11" />
-        <mark key="[" line="47" column="56" />
-        <mark key="]" line="47" column="56" />
-        <mark key="." line="47" column="56" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Medicine.java" timestamp="1449782003259">
+        <mark key="a" line="24" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449780555743">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="21" column="11" />
         <mark key="." line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449780691148">
-        <mark key="[" line="56" column="17" />
-        <mark key="]" line="56" column="17" />
-        <mark key="." line="56" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449781580301">
+        <mark key="[" line="22" column="45" />
+        <mark key="]" line="22" column="45" />
+        <mark key="." line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449780333036">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="26" column="44" />
-        <mark key="." line="26" column="44" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449782502736" />
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="7" />
@@ -34,10 +27,10 @@
         <mark key="]" line="81" column="17" />
         <mark key="." line="81" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/InvisibleHat.java" timestamp="1449780572851">
-        <mark key="[" line="33" column="65" />
-        <mark key="]" line="33" column="65" />
-        <mark key="." line="33" column="65" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/InvisibleHat.java" timestamp="1449782536330">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="38" column="65" />
+        <mark key="." line="38" column="65" />
       </file>
       <file name="/fragment.java" timestamp="1447415336094">
         <mark key="[" line="0" column="0" />
@@ -51,37 +44,37 @@
     <jumps />
     <registers>
       <register name="1" type="4">
-        <text>';</text>
+        <text />
       </register>
       <register name="&quot;" type="4">
-        <text>';</text>
+        <text />
       </register>
       <register name="2" type="4">
-        <text>\n</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSW50ZWdlciBjb3N0ID0gNDs=</text>
       </register>
       <register name="3" type="4">
-        <text>\n</text>
+        <text>n</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAn</text>
+        <text>c</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAiLFxuXHTH4PLw4PL7ID0gIiArIGNvc3Q7</text>
+        <text>';</text>
       </register>
       <register name="6" type="4">
-        <text>person.setSkills(person.getSkills() - cost);</text>
+        <text>\n</text>
       </register>
       <register name="7" type="4">
-        <text>навыков</text>
+        <text>\n</text>
       </register>
       <register name="8" type="4">
-        <text>}</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAn</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICdcJycgKw==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAiLFxuXHTH4PLw4PL7ID0gIiArIGNvc3Q7</text>
       </register>
       <register name="-" type="4">
-        <text>';</text>
+        <text />
       </register>
     </registers>
     <search>
