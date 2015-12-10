@@ -1,0 +1,97 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Medicine.java" timestamp="1449599534605">
+        <mark key="a" line="25" column="11" />
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449599572123">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449600028827">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/InvisibleHat.java" timestamp="1449599906035">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
+      <file name="/fragment.java" timestamp="1447415336094">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Artefact.java" timestamp="1449599521812">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text>null</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>null</text>
+      </register>
+      <register name="2" type="4">
+        <text>InvisibleHat{</text>
+      </register>
+      <register name="3" type="4">
+        <text>addCost</text>
+      </register>
+      <register name="4" type="4">
+        <text>needLevel</text>
+      </register>
+      <register name="5" type="4">
+        <text>v</text>
+      </register>
+      <register name="6" type="4">
+        <text>void w</text>
+      </register>
+      <register name="7" type="4">
+        <text>d</text>
+      </register>
+      <register name="8" type="4">
+        <text>Fireball{</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IEk=</text>
+      </register>
+      <register name="-" type="4">
+        <text>null</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
