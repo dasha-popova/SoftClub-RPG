@@ -3,24 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Medicine.java" timestamp="1449782003259">
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Medicine.java" timestamp="1449785035343">
         <mark key="a" line="24" column="11" />
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="15" />
+        <mark key="." line="44" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449782708235">
-        <mark key="'" line="37" column="20" />
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="20" />
-        <mark key="." line="37" column="20" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449785002114" />
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449781580301">
         <mark key="[" line="22" column="45" />
         <mark key="]" line="22" column="45" />
         <mark key="." line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449784176135">
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="36" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449785706312">
+        <mark key="'" line="68" column="84" />
+        <mark key="[" line="59" column="11" />
+        <mark key="]" line="59" column="11" />
+        <mark key="." line="59" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
@@ -32,11 +31,7 @@
         <mark key="]" line="89" column="17" />
         <mark key="." line="89" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/InvisibleHat.java" timestamp="1449782536330">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="38" column="65" />
-        <mark key="." line="38" column="65" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/InvisibleHat.java" timestamp="1449784566766" />
       <file name="/fragment.java" timestamp="1447415336094">
         <mark key="[" line="0" column="0" />
       </file>
@@ -48,40 +43,41 @@
     </filemarks>
     <jumps>
       <jump line="37" column="20" filename="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" />
+      <jump line="67" column="84" filename="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">0fPk4PD8IO/u6uAg7eUg7O7m5fIg6PHv7uv85+7i4PL8IPHl6SDA8PLl9ODq8iFcbiA=</text>
+        <text encoding="base64">IENvbnNvbGUgY29uc29sZSA9IG5ldyBDb25zb2xlKCk7CiAgICAgICAgICAgIFN0cmluZyBhYmMgPSBjb25zb2xlLnJlYWRMaW5lKCk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">0fPk4PD8IO/u6uAg7eUg7O7m5fIg6PHv7uv85+7i4PL8IPHl6SDA8PLl9ODq8iFcbiA=</text>
+        <text encoding="base64">IENvbnNvbGUgY29uc29sZSA9IG5ldyBDb25zb2xlKCk7CiAgICAgICAgICAgIFN0cmluZyBhYmMgPSBjb25zb2xlLnJlYWRMaW5lKCk7</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IM7h+/ft++kg8+Tg8CDs5ffu7C4=</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text>, где</text>
+        <text encoding="base64">ID0gbmV3IENvbnNvbGUoKQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgogICAgcHVibGljIEludGVnZXIgZ2V0RGFtYWdlKCkgewogICAgICAgIHJldHVybiBkYW1hZ2U7CiAgICB9</text>
       </register>
       <register name="5" type="4">
-        <text>Затраты</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSW50ZWdlciBkYW1hZ2UgPSAwOw==</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>null</text>
       </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text>void</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text encoding="base64">0fPk4PD8IO/u6uAg7eUg7O7m5fIg6PHv7uv85+7i4PL8IPHl6SDA8PLl9ODq8iFcbiA=</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text encoding="base64">IM7h+/ft++kg8+Tg8CDs5ffu7C4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">0fPk4PD8IO/u6uAg7eUg7O7m5fIg6PHv7uv85+7i4PL8IPHl6SDA8PLl9ODq8iFcbiA=</text>
+        <text />
       </register>
     </registers>
     <search>
