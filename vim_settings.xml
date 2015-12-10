@@ -9,25 +9,27 @@
         <mark key="]" line="23" column="11" />
         <mark key="." line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449599572123">
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="17" />
-        <mark key="." line="32" column="17" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449758359787">
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449759145779" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449759656944">
         <mark key="[" line="24" column="41" />
         <mark key="]" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449758331474">
-        <mark key="[" line="5" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449759714657">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Hero/Hero.java" timestamp="1449755870985" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Hero/Hero.java" timestamp="1449759761048">
+        <mark key="[" line="66" column="4" />
+        <mark key="]" line="59" column="46" />
+        <mark key="." line="59" column="46" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/InvisibleHat.java" timestamp="1449599906035">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="15" />
@@ -36,7 +38,7 @@
       <file name="/fragment.java" timestamp="1447415336094">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Artefact.java" timestamp="1449599521812">
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Artefact.java" timestamp="1449759928035">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
@@ -45,37 +47,37 @@
     <jumps />
     <registers>
       <register name="1" type="4">
-        <text>10</text>
+        <text encoding="base64">IDUgKiA=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text encoding="base64">IDUgKiA=</text>
       </register>
       <register name="2" type="4">
-        <text>Злая колдунья&quot;</text>
+        <text>5</text>
       </register>
       <register name="3" type="4">
-        <text>Бес</text>
+        <text>{</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;Орк&quot;,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>Черный дракон</text>
+        <text>10</text>
       </register>
       <register name="6" type="4">
-        <text>Ведьма</text>
+        <text>Злая колдунья&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>Кентавр</text>
+        <text>Бес</text>
       </register>
       <register name="8" type="4">
-        <text>Лич</text>
+        <text>&quot;Орк&quot;,</text>
       </register>
       <register name="9" type="4">
-        <text>Воин</text>
+        <text>Черный дракон</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text encoding="base64">IDUgKiA=</text>
       </register>
     </registers>
     <search>
