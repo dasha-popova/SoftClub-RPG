@@ -6,26 +6,31 @@
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Medicine.java" timestamp="1449782003259">
         <mark key="a" line="24" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449780555743">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="21" column="11" />
-        <mark key="." line="21" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449782708235">
+        <mark key="'" line="37" column="20" />
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="37" column="20" />
+        <mark key="." line="37" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449781580301">
         <mark key="[" line="22" column="45" />
         <mark key="]" line="22" column="45" />
         <mark key="." line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449782502736" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449784176135">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="36" column="28" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Hero/Hero.java" timestamp="1449780725514">
-        <mark key="[" line="81" column="16" />
-        <mark key="]" line="81" column="17" />
-        <mark key="." line="81" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Hero/Hero.java" timestamp="1449783376316">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="89" column="17" />
+        <mark key="." line="89" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/InvisibleHat.java" timestamp="1449782536330">
         <mark key="[" line="10" column="4" />
@@ -35,46 +40,48 @@
       <file name="/fragment.java" timestamp="1447415336094">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Artefact.java" timestamp="1449780322781">
-        <mark key="[" line="7" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Artefact.java" timestamp="1449783550266">
+        <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="37" column="20" filename="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" />
+    </jumps>
     <registers>
       <register name="1" type="4">
-        <text />
+        <text encoding="base64">0fPk4PD8IO/u6uAg7eUg7O7m5fIg6PHv7uv85+7i4PL8IPHl6SDA8PLl9ODq8iFcbiA=</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">0fPk4PD8IO/u6uAg7eUg7O7m5fIg6PHv7uv85+7i4PL8IPHl6SDA8PLl9ODq8iFcbiA=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSW50ZWdlciBjb3N0ID0gNDs=</text>
+        <text encoding="base64">IM7h+/ft++kg8+Tg8CDs5ffu7C4=</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>, где</text>
       </register>
-      <register name="4" type="4">
-        <text>c</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="4">
-        <text>';</text>
+        <text>Затраты</text>
       </register>
       <register name="6" type="4">
-        <text>\n</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>\n</text>
+        <text>c</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAn</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAiLFxuXHTH4PLw4PL7ID0gIiArIGNvc3Q7</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">0fPk4PD8IO/u6uAg7eUg7O7m5fIg6PHv7uv85+7i4PL8IPHl6SDA8PLl9ODq8iFcbiA=</text>
       </register>
     </registers>
     <search>
