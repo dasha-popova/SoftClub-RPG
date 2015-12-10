@@ -15,10 +15,10 @@
         <mark key="]" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449768211944">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449770115289">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
@@ -47,37 +47,37 @@
     <jumps />
     <registers>
       <register name="1" type="4">
-        <text>Аптечка</text>
+        <text>Artefact</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Аптечка</text>
+        <text>Artefact</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IDUgKiA=</text>
+        <text>Аптечка</text>
       </register>
       <register name="3" type="4">
-        <text>5</text>
+        <text encoding="base64">IDUgKiA=</text>
       </register>
       <register name="4" type="4">
-        <text>{</text>
+        <text>5</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{</text>
       </register>
       <register name="6" type="4">
-        <text>10</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>Злая колдунья&quot;</text>
+        <text>10</text>
       </register>
       <register name="8" type="4">
-        <text>Бес</text>
+        <text>Злая колдунья&quot;</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;Орк&quot;,</text>
+        <text>Бес</text>
       </register>
       <register name="-" type="4">
-        <text>Аптечка</text>
+        <text>Artefact</text>
       </register>
     </registers>
     <search>
