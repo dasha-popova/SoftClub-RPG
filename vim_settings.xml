@@ -10,17 +10,22 @@
         <mark key="." line="44" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449785002114" />
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449781580301">
-        <mark key="[" line="22" column="45" />
-        <mark key="]" line="22" column="45" />
-        <mark key="." line="22" column="45" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Game.java" timestamp="1449791899764">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="20" column="44" />
+        <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449790488860">
-        <mark key="'" line="69" column="84" />
-        <mark key="[" line="61" column="11" />
-        <mark key="]" line="70" column="86" />
-        <mark key="." line="70" column="86" />
-        <mark key="^" line="70" column="86" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449791372601">
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="14" column="66" />
+        <mark key="." line="14" column="66" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449792201933">
+        <mark key="'" line="72" column="84" />
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="4" />
+        <mark key="." line="41" column="4" />
+        <mark key="^" line="73" column="86" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
@@ -48,37 +53,37 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>void</text>
+        <text>public</text>
       </register>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>public</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">z+7v8O7h8+kg5ePuIOfg4u7l4uDy/C4g</text>
+        <text>public</text>
       </register>
       <register name="3" type="4">
-        <text>Artefact</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">U2V0PEFydGVmYWN0Pg==</text>
+        <text>public</text>
       </register>
       <register name="5" type="4">
-        <text>artefacts</text>
+        <text encoding="base64">Isfs5ektw+7w++379yIsIA==</text>
       </register>
       <register name="6" type="4">
-        <text>hero.getMagicBag().size();</text>
+        <text>Тугарина-Змея</text>
       </register>
       <register name="7" type="4">
-        <text>hero.getMagicBag().</text>
+        <text encoding="base64">IPLl4eUg</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">KwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIxIC0gIiArIA==</text>
+        <text>void</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">INvt++Xz/P754+X+5+r48uXk8ijdyuAp</text>
+        <text encoding="base64">z+7v8O7h8+kg5ePuIOfg4u7l4uDy/C4g</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>public</text>
       </register>
     </registers>
     <search>
