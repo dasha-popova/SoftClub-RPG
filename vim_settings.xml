@@ -34,11 +34,11 @@
         <mark key="^" line="108" column="86" />
         <mark key="." line="112" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Main.java" timestamp="1449824550052">
-        <mark key="'" line="11" column="57" />
-        <mark key="[" line="12" column="65" />
-        <mark key="]" line="12" column="65" />
-        <mark key="." line="12" column="65" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Main.java" timestamp="1449825075028">
+        <mark key="'" line="26" column="57" />
+        <mark key="[" line="21" column="56" />
+        <mark key="]" line="21" column="56" />
+        <mark key="." line="21" column="56" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
@@ -69,25 +69,25 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIG9vcy4=</text>
+        <text>file</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIG9vcy4=</text>
+        <text>file</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGZvcy4=</text>
+        <text encoding="base64">CiAgICAgICAgaWYoIWZpbGUuZXhpc3RzKCkpewogICAgICAgICAgICBmaWxlLmNyZWF0ZU5ld0ZpbGUoKTsKICAgICAgICB9</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5IHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIG9vcy4=</text>
       </register>
       <register name="4" type="4">
-        <text>temp</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGZvcy4=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5IHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>temp</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
@@ -99,7 +99,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>temp</text>
+        <text>file</text>
       </register>
     </registers>
     <search>
