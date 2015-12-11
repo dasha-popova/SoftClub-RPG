@@ -3,19 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Medicine.java" timestamp="1449797964465">
-        <mark key="a" line="24" column="11" />
-        <mark key="[" line="24" column="43" />
-        <mark key="]" line="44" column="15" />
-        <mark key="." line="44" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Medicine.java" timestamp="1449822620464">
+        <mark key="a" line="26" column="11" />
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="46" column="15" />
+        <mark key="." line="46" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Game.java" timestamp="1449791899764">
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="20" column="44" />
-        <mark key="." line="20" column="44" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449822574778">
+        <mark key="[" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449796824924">
-        <mark key="[" line="24" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Game.java" timestamp="1449822656315">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="22" column="44" />
+        <mark key="." line="22" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449822691228">
+        <mark key="[" line="7" column="21" />
         <mark key="]" line="24" column="30" />
         <mark key="." line="24" column="30" />
       </file>
@@ -31,43 +34,48 @@
         <mark key="^" line="108" column="86" />
         <mark key="." line="112" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Main.java" timestamp="1449796013016">
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="44" />
-        <mark key="." line="10" column="44" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Main.java" timestamp="1449823351566">
+        <mark key="'" line="11" column="57" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Hero/Hero.java" timestamp="1449797247323">
-        <mark key="[" line="22" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Hero/Hero.java" timestamp="1449822724864">
+        <mark key="[" line="9" column="18" />
         <mark key="]" line="22" column="22" />
         <mark key="." line="22" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/InvisibleHat.java" timestamp="1449822637120">
+        <mark key="[" line="9" column="44" />
       </file>
       <file name="/fragment.java" timestamp="1447415336094">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Artefact.java" timestamp="1449783550266">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Artefact.java" timestamp="1449822540462">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
       </file>
     </filemarks>
     <jumps>
       <jump line="37" column="20" filename="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" />
       <jump line="67" column="84" filename="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" />
+      <jump line="10" column="57" filename="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Main.java" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5IHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5IHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>temp</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
@@ -85,13 +93,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>temp</text>
       </register>
     </registers>
     <search>
