@@ -12,10 +12,10 @@
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449822574778">
         <mark key="[" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Game.java" timestamp="1449832223652">
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="24" column="42" />
-        <mark key="." line="24" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Game.java" timestamp="1449837036367">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449822691228">
         <mark key="[" line="7" column="21" />
@@ -27,18 +27,18 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449829701820">
-        <mark key="'" line="108" column="84" />
-        <mark key="[" line="157" column="57" />
-        <mark key="]" line="157" column="57" />
-        <mark key="^" line="109" column="86" />
-        <mark key="." line="157" column="57" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449836561305">
+        <mark key="'" line="109" column="84" />
+        <mark key="[" line="116" column="27" />
+        <mark key="]" line="116" column="27" />
+        <mark key="^" line="110" column="86" />
+        <mark key="." line="116" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Main.java" timestamp="1449828588474">
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Main.java" timestamp="1449837317903">
         <mark key="'" line="16" column="57" />
-        <mark key="[" line="51" column="16" />
-        <mark key="]" line="51" column="16" />
-        <mark key="." line="51" column="16" />
+        <mark key="[" line="58" column="64" />
+        <mark key="]" line="58" column="64" />
+        <mark key="." line="58" column="64" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
@@ -53,7 +53,7 @@
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/InvisibleHat.java" timestamp="1449822637120">
         <mark key="[" line="9" column="44" />
       </file>
-      <file name="/fragment.java" timestamp="1447415336094">
+      <file name="/fragment.java" timestamp="1449835258369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Artefact.java" timestamp="1449822540462">
@@ -69,37 +69,40 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>///////LEVELS to 11!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>///////LEVELS to 11!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIGVuZEdhbWUgPSBmYWxzZTs=</text>
-      </register>
-      <register name="3" type="4">
-        <text>endGame = true;</text>
-      </register>
-      <register name="4" type="4">
         <text />
       </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text>if(currentRoom.isEndBattle()) {
+                endGame = true;</text>
+      </register>
+      <register name="3" type="4">
+        <text>true</text>
+      </register>
+      <register name="4" type="4">
+        <text>if(file.delete())
+                        System.out.println(&quot;Delete&quot;);</text>
+      </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBici5jbG9zZSgpOw==</text>
+        <text>|| !currentRoom.isEndBattle())</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgIGJyLmNsb3NlKCk7</text>
+        <text>if(!currentRoom.isEndBattle())
+                    endGame = false;</text>
       </register>
       <register name="7" type="4">
-        <text>false</text>
+        <text>.isEndGame()</text>
       </register>
       <register name="8" type="4">
-        <text>endGame</text>
+        <text>true</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGJvb2xlYW4gZW5kR2FtZSA9IHRydWU7</text>
+        <text encoding="base64">IWN1cnJlbnRSb29tLiB8fCA=</text>
       </register>
       <register name="-" type="4">
-        <text>///////LEVELS to 11!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</text>
+        <text />
       </register>
     </registers>
     <search>
