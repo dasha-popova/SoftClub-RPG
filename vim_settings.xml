@@ -12,10 +12,10 @@
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449822574778">
         <mark key="[" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Game.java" timestamp="1449830022063">
-        <mark key="[" line="40" column="31" />
-        <mark key="]" line="40" column="31" />
-        <mark key="." line="40" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Game.java" timestamp="1449832223652">
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="24" column="42" />
+        <mark key="." line="24" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449822691228">
         <mark key="[" line="7" column="21" />
@@ -69,37 +69,37 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIGVuZEdhbWUgPSBmYWxzZTs=</text>
+        <text>///////LEVELS to 11!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIGVuZEdhbWUgPSBmYWxzZTs=</text>
+        <text>///////LEVELS to 11!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</text>
       </register>
       <register name="2" type="4">
-        <text>endGame = true;</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIGVuZEdhbWUgPSBmYWxzZTs=</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text>endGame = true;</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBici5jbG9zZSgpOw==</text>
+        <text />
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgIGJyLmNsb3NlKCk7</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBici5jbG9zZSgpOw==</text>
       </register>
       <register name="6" type="4">
-        <text>false</text>
+        <text encoding="base64">ICAgICAgIGJyLmNsb3NlKCk7</text>
       </register>
       <register name="7" type="4">
-        <text>endGame</text>
+        <text>false</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGJvb2xlYW4gZW5kR2FtZSA9IHRydWU7</text>
+        <text>endGame</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBuZXdHYW1lKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKCiAgICAgICAgcmV0dXJuIGdhbWUuaXNFbmRHYW1lKCk7CiAgICB9</text>
+        <text encoding="base64">IGJvb2xlYW4gZW5kR2FtZSA9IHRydWU7</text>
       </register>
       <register name="-" type="4">
-        <text>endGame = true;</text>
+        <text>///////LEVELS to 11!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</text>
       </register>
     </registers>
     <search>
