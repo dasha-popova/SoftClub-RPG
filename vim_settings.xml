@@ -12,8 +12,10 @@
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449822574778">
         <mark key="[" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Game.java" timestamp="1449825838732">
-        <mark key="[" line="10" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Game.java" timestamp="1449830022063">
+        <mark key="[" line="40" column="31" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1449822691228">
         <mark key="[" line="7" column="21" />
@@ -25,15 +27,18 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449821729915">
-        <mark key="'" line="107" column="84" />
-        <mark key="[" line="35" column="47" />
-        <mark key="]" line="112" column="28" />
-        <mark key="^" line="108" column="86" />
-        <mark key="." line="112" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449829701820">
+        <mark key="'" line="108" column="84" />
+        <mark key="[" line="157" column="57" />
+        <mark key="]" line="157" column="57" />
+        <mark key="^" line="109" column="86" />
+        <mark key="." line="157" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Main.java" timestamp="1449827072201">
-        <mark key="'" line="31" column="57" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Main.java" timestamp="1449828588474">
+        <mark key="'" line="16" column="57" />
+        <mark key="[" line="51" column="16" />
+        <mark key="]" line="51" column="16" />
+        <mark key="." line="51" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
@@ -64,37 +69,37 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVyby51cExldmVsKCk7</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIGVuZEdhbWUgPSBmYWxzZTs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVyby51cExldmVsKCk7</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIGVuZEdhbWUgPSBmYWxzZTs=</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;LastGame.out&quot;</text>
+        <text>endGame = true;</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;LastGame.out&quot;)</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text>game.getHero(</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBici5jbG9zZSgpOw==</text>
       </register>
       <register name="5" type="4">
-        <text>heroName</text>
+        <text encoding="base64">ICAgICAgIGJyLmNsb3NlKCk7</text>
       </register>
       <register name="6" type="4">
-        <text>file</text>
+        <text>false</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYoIWZpbGUuZXhpc3RzKCkpewogICAgICAgICAgICBmaWxlLmNyZWF0ZU5ld0ZpbGUoKTsKICAgICAgICB9</text>
+        <text>endGame</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIG9vcy4=</text>
+        <text encoding="base64">IGJvb2xlYW4gZW5kR2FtZSA9IHRydWU7</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGZvcy4=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBuZXdHYW1lKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKCiAgICAgICAgcmV0dXJuIGdhbWUuaXNFbmRHYW1lKCk7CiAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVyby51cExldmVsKCk7</text>
+        <text>endGame = true;</text>
       </register>
     </registers>
     <search>
@@ -122,6 +127,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
