@@ -20,12 +20,12 @@
         <mark key="]" line="24" column="30" />
         <mark key="." line="24" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449799274310">
-        <mark key="'" line="101" column="84" />
-        <mark key="[" line="100" column="28" />
-        <mark key="]" line="100" column="28" />
-        <mark key="^" line="102" column="86" />
-        <mark key="." line="100" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449800043795">
+        <mark key="'" line="105" column="84" />
+        <mark key="[" line="111" column="28" />
+        <mark key="]" line="111" column="28" />
+        <mark key="^" line="106" column="86" />
+        <mark key="." line="111" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Main.java" timestamp="1449796013016">
         <mark key="[" line="10" column="44" />
@@ -58,41 +58,44 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLiA=</text>
+        <text>abc</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLiA=</text>
+        <text>abc</text>
       </register>
       <register name="2" type="4">
-        <text>this.getClass().getClassLoader()</text>
+        <text>battle</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9p</text>
+      </register>
+      <register name="4" type="4">
+        <text>// CHECK !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1</text>
+      </register>
+      <register name="5" type="4">
+        <text>+
+                    &quot;а - Удар мечом по злыденю\n&quot; +
+                    &quot;б - Удар мечом с Артефактом-помощником\n&quot; +
+                    &quot;в - Позорное бегство с поле боя&quot; )</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">yuDq6OUg5OXp8fLi6P8g7/Dl5O/w6Ozl8uUsIA==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLiA=</text>
+      </register>
+      <register name="8" type="4">
+        <text>this.getClass().getClassLoader()</text>
+      </register>
+      <register name="9" type="4">
         <text>try {
                         this.wait(20);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }</text>
       </register>
-      <register name="4" type="4">
-        <text>level</text>
-      </register>
-      <register name="5" type="4">
-        <text>с</text>
-      </register>
-      <register name="6" type="4">
-        <text>damage</text>
-      </register>
-      <register name="7" type="4">
-        <text>20</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC4=</text>
-      </register>
-      <register name="9" type="4">
-        <text>13</text>
-      </register>
       <register name="-" type="4">
-        <text>this.getClass().getClassLoader()</text>
+        <text>abc</text>
       </register>
     </registers>
     <search>
