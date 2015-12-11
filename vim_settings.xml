@@ -34,11 +34,11 @@
         <mark key="^" line="110" column="86" />
         <mark key="." line="116" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Main.java" timestamp="1449853992644">
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Main.java" timestamp="1449855808069">
         <mark key="'" line="16" column="57" />
-        <mark key="[" line="67" column="68" />
-        <mark key="]" line="67" column="68" />
-        <mark key="." line="67" column="68" />
+        <mark key="[" line="58" column="16" />
+        <mark key="]" line="58" column="16" />
+        <mark key="." line="58" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
@@ -69,40 +69,39 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">CgogICAgICAgICAgICAgICAgICAgZmlsZS5kZWxldGUoKTs=</text>
+        <text encoding="base64">Ym9vbGVhbiBiID0g</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgogICAgICAgICAgICAgICAgICAgZmlsZS5kZWxldGUoKTs=</text>
+        <text encoding="base64">Ym9vbGVhbiBiID0g</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGVsc2UKICAgICAgICAgICAgICAgIGZpbGUuZGVsZXRlKCk7</text>
+        <text>file.delete();</text>
       </register>
       <register name="3" type="4">
-        <text>OnExit(</text>
+        <text encoding="base64">CgogICAgICAgICAgICAgICAgICAgZmlsZS5kZWxldGUoKTs=</text>
       </register>
       <register name="4" type="4">
-        <text />
+        <text encoding="base64">IGVsc2UKICAgICAgICAgICAgICAgIGZpbGUuZGVsZXRlKCk7</text>
       </register>
       <register name="5" type="4">
+        <text>OnExit(</text>
+      </register>
+      <register name="6" type="4">
+        <text />
+      </register>
+      <register name="7" type="4">
         <text>if(currentRoom.isEndBattle()) {
                 endGame = true;</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>true</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>if(file.delete())
                         System.out.println(&quot;Delete&quot;);</text>
       </register>
-      <register name="8" type="4">
-        <text>|| !currentRoom.isEndBattle())</text>
-      </register>
-      <register name="9" type="4">
-        <text>if(!currentRoom.isEndBattle())
-                    endGame = false;</text>
-      </register>
       <register name="-" type="4">
-        <text>OnExit(</text>
+        <text encoding="base64">Ym9vbGVhbiBiID0g</text>
       </register>
     </registers>
     <search>
