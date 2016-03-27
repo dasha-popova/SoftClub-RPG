@@ -40,6 +40,11 @@
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449857807721">
         <mark key="[" line="12" column="37" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/META-INF/persistence.xml" timestamp="1459081928261">
+        <mark key="[" line="2" column="52" />
+        <mark key="]" line="2" column="52" />
+        <mark key="." line="2" column="52" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Game.java" timestamp="1449837036367">
         <mark key="[" line="38" column="12" />
         <mark key="]" line="38" column="12" />
@@ -69,39 +74,38 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>import java.util.Set;</text>
+        <text>RESOURCE_LOCAL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>import java.util.Set;</text>
+        <text>RESOURCE_LOCAL</text>
       </register>
       <register name="2" type="4">
+        <text>import java.util.Set;</text>
+      </register>
+      <register name="3" type="4">
         <text>import java.nio.file.Files;
 import java.nio.file.Path;</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ym9vbGVhbiBiID0g</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>file.delete();</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgogICAgICAgICAgICAgICAgICAgZmlsZS5kZWxldGUoKTs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGVsc2UKICAgICAgICAgICAgICAgIGZpbGUuZGVsZXRlKCk7</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>OnExit(</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>if(currentRoom.isEndBattle()) {
-                endGame = true;</text>
-      </register>
       <register name="-" type="4">
-        <text>import java.util.Set;</text>
+        <text>RESOURCE_LOCAL</text>
       </register>
     </registers>
     <search>
