@@ -4,49 +4,28 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAO.java" timestamp="1459084662249" />
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOJunctionHR.java" timestamp="1459086011732">
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1450293574237">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/Tables/User.java" timestamp="1459087345948">
+        <mark key="[" line="12" column="15" />
       </file>
       <file name="D:/TestProjectLanguage/src/main/Main.java" timestamp="1449819260795">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Room/Room.java" timestamp="1449858358665">
-        <mark key="'" line="109" column="84" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="110" column="86" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Main.java" timestamp="1449858312520">
-        <mark key="'" line="14" column="57" />
-        <mark key="[" line="4" column="16" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Hero/Hero.java" timestamp="1449822724864">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="22" column="22" />
         <mark key="." line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/Main.java" timestamp="1459080546770" />
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOUser.java" timestamp="1459086032831">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="21" />
-        <mark key="." line="22" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/ConsoleWork/ConsoleException.java" timestamp="1459087246818">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Medicine.java" timestamp="1450293479592">
-        <mark key="a" line="26" column="11" />
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="46" column="15" />
-        <mark key="." line="46" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOUser.java" timestamp="1459086032831">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" timestamp="1449857807721">
         <mark key="[" line="12" column="37" />
@@ -56,20 +35,43 @@
         <mark key="]" line="2" column="52" />
         <mark key="." line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAORace.java" timestamp="1459086028149">
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="20" column="21" />
-        <mark key="." line="20" column="21" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Game.java" timestamp="1449837036367">
         <mark key="[" line="38" column="12" />
         <mark key="]" line="38" column="12" />
         <mark key="." line="38" column="12" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAOInterfaces/DAOHorceInfc.java" timestamp="1459087552312">
+        <mark key="[" line="3" column="37" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/Main/Main.java" timestamp="1459086842821">
+        <mark key="[" line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOJunctionHR.java" timestamp="1459087423363">
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1450293574237">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/Main.java" timestamp="1459080546770" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAORace.java" timestamp="1459086028149">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/ConsoleWork/Menu.java" timestamp="1459087258424">
+        <mark key="[" line="207" column="5" />
+        <mark key="]" line="207" column="5" />
+        <mark key="." line="207" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/InvisibleHat.java" timestamp="1459078309062">
         <mark key="[" line="9" column="44" />
@@ -82,10 +84,18 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOHorses.java" timestamp="1459086023232">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOHorses.java" timestamp="1459087582147">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/Message/Message.java" timestamp="1459087281304">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/Tables/Bet.java" timestamp="1459087298984">
+        <mark key="[" line="8" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -95,37 +105,54 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>extends DAO</text>
+        <text>/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */</text>
       </register>
       <register name="&quot;" type="4">
-        <text>extends DAO</text>
+        <text>/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */</text>
       </register>
       <register name="2" type="4">
-        <text>extends DAO</text>
+        <text>/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */</text>
       </register>
       <register name="3" type="4">
-        <text>extends DAO</text>
+        <text>finally {
+	    daoUser.close();
+	    daoHorses.close();
+	    daoJHR.close();
+	    daoRace.close();
+	}</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGV4dGVuZHMgREFP</text>
+        <text />
       </register>
       <register name="5" type="4">
         <text />
       </register>
       <register name="6" type="4">
-        <text>l</text>
+        <text encoding="base64">IGZpbmFsbHkgewoJICAgIGRhb1VzZXIuY2xvc2UoKTsKCSAgICBkYW9Ib3JzZXMuY2xvc2UoKTsKCSAgICBkYW9KSFIuY2xvc2UoKTsKCSAgICBkYW9SYWNlLmNsb3NlKCk7Cgl9</text>
       </register>
       <register name="7" type="4">
-        <text>BADEN</text>
+        <text>extends DAO</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>extends DAO</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHByaXZhdGUgc3RhdGljIFNlc3Npb25GYWN0b3J5IGZhY3Rvcnk7IA==</text>
+        <text>extends DAO</text>
       </register>
       <register name="-" type="4">
-        <text>extends DAO</text>
+        <text />
       </register>
     </registers>
     <search>
