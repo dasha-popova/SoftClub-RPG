@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAO.java" timestamp="1459084662249" />
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOJunctionHR.java" timestamp="1459085035741">
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="25" />
-        <mark key="." line="25" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOJunctionHR.java" timestamp="1459086011732">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1450293574237">
         <mark key="[" line="6" column="19" />
@@ -37,10 +37,10 @@
         <mark key="." line="22" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/Main.java" timestamp="1459080546770" />
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOUser.java" timestamp="1459085081420">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOUser.java" timestamp="1459086032831">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Medicine.java" timestamp="1450293479592">
         <mark key="a" line="26" column="11" />
@@ -56,10 +56,10 @@
         <mark key="]" line="2" column="52" />
         <mark key="." line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAORace.java" timestamp="1459084742715">
-        <mark key="[" line="19" column="2" />
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="19" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAORace.java" timestamp="1459086028149">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Game.java" timestamp="1449837036367">
         <mark key="[" line="38" column="12" />
@@ -82,7 +82,11 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOHorses.java" timestamp="1459085170547" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOHorses.java" timestamp="1459086023232">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="37" column="20" filename="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" />
@@ -91,38 +95,37 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>BADEN</text>
+        <text>extends DAO</text>
       </register>
       <register name="&quot;" type="4">
-        <text>BADEN</text>
+        <text>extends DAO</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>extends DAO</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHByaXZhdGUgc3RhdGljIFNlc3Npb25GYWN0b3J5IGZhY3Rvcnk7IA==</text>
+        <text>extends DAO</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgU2Vzc2lvbkZhY3RvcnkgZmFjdG9yeTsg</text>
+        <text encoding="base64">IGV4dGVuZHMgREFP</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgU2Vzc2lvbkZhY3RvcnkgZmFjdG9yeTsg</text>
+        <text />
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICBFbnRpdHlNYW5hZ2VyRmFjdG9yeSBmYWN0b3J5ID0gbnVsbDs=</text>
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text>RESOURCE_LOCAL</text>
+        <text>BADEN</text>
       </register>
       <register name="8" type="4">
-        <text>import java.util.Set;</text>
+        <text encoding="base64">ID0gbnVsbA==</text>
       </register>
       <register name="9" type="4">
-        <text>import java.nio.file.Files;
-import java.nio.file.Path;</text>
+        <text encoding="base64">IHByaXZhdGUgc3RhdGljIFNlc3Npb25GYWN0b3J5IGZhY3Rvcnk7IA==</text>
       </register>
       <register name="-" type="4">
-        <text>BADEN</text>
+        <text>extends DAO</text>
       </register>
     </registers>
     <search>
