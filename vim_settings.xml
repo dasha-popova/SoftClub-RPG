@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAO.java" timestamp="1459084662249" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOJunctionHR.java" timestamp="1459085035741">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="25" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1450293574237">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="21" />
@@ -31,6 +37,11 @@
         <mark key="." line="22" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/Main.java" timestamp="1459080546770" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOUser.java" timestamp="1459085081420">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Medicine.java" timestamp="1450293479592">
         <mark key="a" line="26" column="11" />
         <mark key="[" line="9" column="41" />
@@ -44,6 +55,11 @@
         <mark key="[" line="2" column="52" />
         <mark key="]" line="2" column="52" />
         <mark key="." line="2" column="52" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAORace.java" timestamp="1459084742715">
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="19" column="3" />
+        <mark key="." line="19" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Game.java" timestamp="1449837036367">
         <mark key="[" line="38" column="12" />
@@ -66,6 +82,7 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOHorses.java" timestamp="1459085170547" />
     </filemarks>
     <jumps>
       <jump line="37" column="20" filename="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Fireball.java" />
@@ -74,38 +91,38 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>RESOURCE_LOCAL</text>
+        <text>BADEN</text>
       </register>
       <register name="&quot;" type="4">
-        <text>RESOURCE_LOCAL</text>
+        <text>BADEN</text>
       </register>
       <register name="2" type="4">
-        <text>import java.util.Set;</text>
+        <text encoding="base64">ID0gbnVsbA==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IHByaXZhdGUgc3RhdGljIFNlc3Npb25GYWN0b3J5IGZhY3Rvcnk7IA==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgU2Vzc2lvbkZhY3RvcnkgZmFjdG9yeTsg</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgU2Vzc2lvbkZhY3RvcnkgZmFjdG9yeTsg</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBFbnRpdHlNYW5hZ2VyRmFjdG9yeSBmYWN0b3J5ID0gbnVsbDs=</text>
+      </register>
+      <register name="7" type="4">
+        <text>RESOURCE_LOCAL</text>
+      </register>
+      <register name="8" type="4">
+        <text>import java.util.Set;</text>
+      </register>
+      <register name="9" type="4">
         <text>import java.nio.file.Files;
 import java.nio.file.Path;</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ym9vbGVhbiBiID0g</text>
-      </register>
-      <register name="5" type="4">
-        <text>file.delete();</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgogICAgICAgICAgICAgICAgICAgZmlsZS5kZWxldGUoKTs=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGVsc2UKICAgICAgICAgICAgICAgIGZpbGUuZGVsZXRlKCk7</text>
-      </register>
-      <register name="8" type="4">
-        <text>OnExit(</text>
-      </register>
-      <register name="9" type="4">
-        <text />
-      </register>
       <register name="-" type="4">
-        <text>RESOURCE_LOCAL</text>
+        <text>BADEN</text>
       </register>
     </registers>
     <search>
