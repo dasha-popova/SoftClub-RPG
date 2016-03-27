@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAO.java" timestamp="1459084662249" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAOInterfaces/DAORaceInfc.java" timestamp="1459088955809">
+        <mark key="[" line="9" column="2" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/Tables/User.java" timestamp="1459087345948">
         <mark key="[" line="12" column="15" />
       </file>
@@ -22,7 +24,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOUser.java" timestamp="1459086032831">
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOUser.java" timestamp="1459088917070">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="21" />
         <mark key="." line="13" column="21" />
@@ -40,8 +42,10 @@
         <mark key="]" line="38" column="12" />
         <mark key="." line="38" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAOInterfaces/DAOHorceInfc.java" timestamp="1459087552312">
-        <mark key="[" line="3" column="37" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAOInterfaces/DAOHorceInfc.java" timestamp="1459088922085">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/personage/Personage.java" timestamp="1449755837271">
         <mark key="[" line="9" column="7" />
@@ -51,20 +55,14 @@
       <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/Main/Main.java" timestamp="1459086842821">
         <mark key="[" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOJunctionHR.java" timestamp="1459087423363">
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOJunctionHR.java" timestamp="1459089101414">
+        <mark key="[" line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/BigBoss/BigBoss.java" timestamp="1450293574237">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOException.java" timestamp="1459089143737">
+        <mark key="[" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/Main.java" timestamp="1459080546770" />
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAORace.java" timestamp="1459086028149">
-        <mark key="[" line="14" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAORace.java" timestamp="1459089119720">
+        <mark key="[" line="14" column="2" />
         <mark key="]" line="14" column="21" />
         <mark key="." line="14" column="21" />
       </file>
@@ -73,10 +71,18 @@
         <mark key="]" line="207" column="5" />
         <mark key="." line="207" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAOInterfaces/DAOJunctionHRInfc.java" timestamp="1459088942942">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="20" column="5" />
+        <mark key="." line="20" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAOInterfaces/DAOUserInfc.java" timestamp="1459088969966">
+        <mark key="[" line="9" column="2" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/InvisibleHat.java" timestamp="1459078309062">
         <mark key="[" line="9" column="44" />
       </file>
-      <file name="/fragment.java" timestamp="1459080554022">
+      <file name="/fragment.java" timestamp="1459088767201">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SoftClubRPG/src/com/pops/lady/Artefact/Artefact.java" timestamp="1449822540462">
@@ -84,8 +90,8 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOHorses.java" timestamp="1459087582147">
-        <mark key="[" line="13" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/Web6.02.2/src/com/pops/lady/DAO/DAOHorses.java" timestamp="1459089077537">
+        <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="23" />
         <mark key="." line="13" column="23" />
       </file>
@@ -105,51 +111,36 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */</text>
+        <text />
       </register>
       <register name="&quot;" type="4">
-        <text>/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */</text>
+        <text />
       </register>
       <register name="2" type="4">
-        <text>/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGNudCA9IDA7CiAgICAgICAgdHJ5IHsKCiAgICAgICAgICAgIEFycmF5TGlzdDxKdW5jdGlvbkhSPiBsaXN0ID0gZ2V0SnVuY3Rpb25IUkJ5UmFjZShyaWQpOwogICAgICAgICAgICBmb3IoSnVuY3Rpb25IUiBqaHI6IGxpc3QpewovLwkJbWFuYWdlci5nZXRUcmFuc2FjdGlvbigpLmJlZ2luKCk7CiAgICAgICAgICAgICAgICBqaHIuc2V0Rml4KDEpOwogICAgICAgICAgICAgICAgbWFuYWdlci5tZXJnZShqaHIpOwovLwkJbWFuYWdlci5nZXRUcmFuc2FjdGlvbigpLmNvbW1pdCgpOwogICAgICAgICAgICAgICAgKytjbnQ7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGNudDsKICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgREFPRXhjZXB0aW9uKGUpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="4">
-        <text>finally {
-	    daoUser.close();
-	    daoHorses.close();
-	    daoJHR.close();
-	    daoRace.close();
-	}</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text />
+        <text>{
+
+    }</text>
       </register>
       <register name="5" type="4">
-        <text />
+        <text encoding="base64">CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgQXJyYXlMaXN0PEp1bmN0aW9uSFI+IGxpc3QgPSBnZXRKdW5jdGlvbkhSQnlSYWNlKHJpZCk7CgogICAgICAgICAgICBmb3IoSnVuY3Rpb25IUiBqaHI6IGxpc3QpewogICAgICAgICAgICAgICAgaWYoamhyLmdldElkSG9yc2VGSygpID09IGhpZCl7CiAgICAgICAgICAgICAgICAgICAgamhyLnNldElzV2lubmVyKDEpOwovLwkJICAgIG1hbmFnZXIuZ2V0VHJhbnNhY3Rpb24oKS5iZWdpbigpOwogICAgICAgICAgICAgICAgICAgIG1hbmFnZXIubWVyZ2UoamhyKTsKLy8JCSAgICBtYW5hZ2VyLmdldFRyYW5zYWN0aW9uKCkuY29tbWl0KCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgREFPRXhjZXB0aW9uKGUpOwogICAgICAgIH0=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IGZpbmFsbHkgewoJICAgIGRhb1VzZXIuY2xvc2UoKTsKCSAgICBkYW9Ib3JzZXMuY2xvc2UoKTsKCSAgICBkYW9KSFIuY2xvc2UoKTsKCSAgICBkYW9SYWNlLmNsb3NlKCk7Cgl9</text>
+        <text encoding="base64">CiAgICAgICAgQXJyYXlMaXN0PEp1bmN0aW9uSFI+IGxpc3Q7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgbGlzdCA9IChBcnJheUxpc3Q8SnVuY3Rpb25IUj4pIG1hbmFnZXIuY3JlYXRlUXVlcnkoU1FMU3RhdGVtZW50R2V0UmlkKQogICAgICAgICAgICAgICAgICAgIC5zZXRQYXJhbWV0ZXIoInJhY2VfaWQiLCByaWQpCiAgICAgICAgICAgICAgICAgICAgLmdldFJlc3VsdExpc3QoKTsKICAgICAgICAgICAgcmV0dXJuIGxpc3Q7CiAgICAgICAgfSBjYXRjaCAoTm9SZXN1bHRFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgREFPRXhjZXB0aW9uKGUpOwogICAgICAgIH0gY2F0Y2ggKFRocm93YWJsZSBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBEQU9FeGNlcHRpb24oZSk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="7" type="4">
-        <text>extends DAO</text>
+        <text encoding="base64">CiAgICBAUGVyc2lzdGVuY2VDb250ZXh0KHVuaXROYW1lID0gIml0ZW0tbWFuYWdlci1wdSIpCiAgICBFbnRpdHlNYW5hZ2VyIG1hbmFnZXIgOw==</text>
       </register>
       <register name="8" type="4">
-        <text>extends DAO</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEQU9Ib3JzZXMoKSB0aHJvd3MgREFPRXhjZXB0aW9ueyBzdXBlcigpO307</text>
       </register>
       <register name="9" type="4">
-        <text>extends DAO</text>
+        <text />
       </register>
       <register name="-" type="4">
         <text />
